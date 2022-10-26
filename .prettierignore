@@ -1,0 +1,10 @@
+node_modules
+.next
+.idea
+.lock
+yarn.lock
+.prettierignore
+public
+.env
+.env.local
+.env.example
